@@ -1,6 +1,0 @@
-# BITS_Assignments_2024
-# DEVOPS Assignments -  Document 1
-Assignments Repository for M.Tech.
-
-New Code is ready to Add!
- - Git Commands
